@@ -4,3 +4,5 @@
 # <h4>Github</h4>
 # <h5>pull</h5>
 # <h6>you did it </h6>
+
+![alt="Image of Yaktocat"](https://octodex.github.com/images/yaktocat.png)
